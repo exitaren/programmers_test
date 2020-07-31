@@ -15,3 +15,4 @@ function solution(n) {
 }
 
 // repeat나 subString을 활용하는 경우가 많았다. 해당 메서드를 활용할 수 있는 방안도 구현할 수 있도록 하자.
+// 아 커밋명 틀림
